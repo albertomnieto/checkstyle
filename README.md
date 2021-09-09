@@ -26,3 +26,16 @@ mvn com.coveo:fmt-maven-plugin:check
 mvn site
 ```
 
+## Enlaces de utilidad
+
+### Maven
+> https://maven.apache.org/plugins/maven-checkstyle-plugin/examples/custom-checker-config.html
+
+### Checkstyle 
+> https://checkstyle.sourceforge.io/
+
+### Google Java Format
+> https://shankulk.com/format-your-java-code-with-google-java-format-5bf4de8756f5
+
+### Convenciones de código (Java)
+> https://www.um.es/docencia/vjimenez/ficheros/practicas/ConvencionesCodigoJava.pdf
