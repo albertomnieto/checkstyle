@@ -1,4 +1,4 @@
-package com.jab.microservices;
+package com.jab.microservices.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

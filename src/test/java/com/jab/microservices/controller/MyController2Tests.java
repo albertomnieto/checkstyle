@@ -1,5 +1,6 @@
-package com.jab.microservices;
+package com.jab.microservices.controller;
 
+import com.jab.microservices.service.MyService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.jab.microservices;
+package com.jab.microservices.service;
 
 import org.springframework.stereotype.Service;
 
@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class MyService {
-
 
     /**
      *

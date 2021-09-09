@@ -1,4 +1,4 @@
-package com.jab.microservices;
+package com.jab.microservices.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

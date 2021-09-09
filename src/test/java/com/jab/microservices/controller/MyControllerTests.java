@@ -1,6 +1,7 @@
-package com.jab.microservices;
+package com.jab.microservices.controller;
 
 
+import com.jab.microservices.controller.MyController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
