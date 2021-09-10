@@ -36,6 +36,3 @@ mvn site
 
 ### Google Java Format
 > https://shankulk.com/format-your-java-code-with-google-java-format-5bf4de8756f5
-
-### Convenciones de código (Java)
-> https://www.um.es/docencia/vjimenez/ficheros/practicas/ConvencionesCodigoJava.pdf
